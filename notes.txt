@@ -1,0 +1,16 @@
+- Documents
+  - https://rpaframework.org/index.html
+  - https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html
+  - https://robocorp.com/docs/quickstart-guide/python
+
+
+RPA stand for Robotic Process Automation
+RPA framework là tập hợp các tool thử viên opensource cho RPA dùng được cả với python và Robot Framework
+
+
+RPA testing:
+  - RPA.Browser.Selenium
+  - 
+
+
+

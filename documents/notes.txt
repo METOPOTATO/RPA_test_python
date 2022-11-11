@@ -1,0 +1,5 @@
+RPA stand for Robotic Process Automation
+RPA framework là tập hợp các tool thử viên opensource cho RPA
+
+RPA testing:
+  - RPA.Browser.Selenium
